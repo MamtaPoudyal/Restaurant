@@ -32,3 +32,8 @@ hhr{
   flex-direction: column;
   gap: 10px;
 }
+
+.cursor{
+  cursor: pointer
+}
+
